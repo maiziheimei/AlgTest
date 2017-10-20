@@ -9,3 +9,4 @@ def quicksort(arr):
     return quicksort(left)+middle+ quicksort(right)
 
 print (quicksort([3,6,8,3,5,10,1,2,8,1]))
+
